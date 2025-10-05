@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Smail</h1>
-<h3 align="center">Full Stack Developer</h3>
+<p align="center" style="margin: 15px;">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer+Student;Passionate+about+AI+and+Web+Development;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
+
+<h3 align="center">💻 Full Stack Developer | 🎓 Engineering Student at ESPRIT | 🌍 Based in Tunisia</h3>
+<h3 align="center">🚀 I love building web & mobile applications and exploring AI.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
