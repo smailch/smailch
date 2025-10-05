@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🎓 Engineering Student at ESPRIT | 🌍 Based in Tunisia</h3>
-<h3 align="center">🚀 I love building web & mobile applications and exploring AI.</h3>
+<h3 align="center">🚀 I love building web applications and exploring AI.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
