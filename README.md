@@ -135,9 +135,7 @@
 <!-- Contact -->
 <h1 align="center">How to get in touch?</h1>
 <h3 align="center">If you need my expertise for your project 👇</h3>
-<p align="center">
-    - <a href="https://twitter.com/messages/compose?recipient_id=" target="_blank" rel="noopener">You can send me a message on Twitter</a>
-</p>
+
 <p align="center">
     - <a href="mailto:smail.chemlali@esprit.tn">Send me an email</a>
 </p>
