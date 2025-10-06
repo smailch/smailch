@@ -102,9 +102,10 @@
     <a href="https://www.cisco.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="70" height="50"/>
     </a>
-    <a href="https://www.virtualbox.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="50" height="50"/>
-    </a>
+   <a href="https://www.vmware.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.svg" alt="vm" width="50" height="50"/>
+</a>
+
 </p>
 
 <!-- Contact -->
