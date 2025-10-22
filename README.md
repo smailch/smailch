@@ -14,9 +14,6 @@
   <a href="https://linkedin.com/in/smail-chemlali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:smail.chemlali@esprit.tn" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -29,9 +26,7 @@
   <a href="https://instagram.com/smail_chemlali" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://portfolio-smail-six.vercel.app/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
-  </a>
+ 
 </p>
 
 ---
@@ -133,7 +128,7 @@
 <h3 align="center">If you need my expertise for your project 👇</h3>
 
 <p align="center">
-<br>
+    📧 <a href="mailto:smail.chemlali@esprit.tn">Send me an email</a><br>
     🌐 <a href="https://portfolio-smail-six.vercel.app/">Visit my portfolio</a>
 </p>
 
