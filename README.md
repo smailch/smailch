@@ -8,7 +8,7 @@
 <h3 align="center">🚀 I love building web applications and exploring AI.</h3>
 
 <p align="center">
-  <a href="https://portfolio-smail-six.vercel.app/" target="_blank">
+  <a href="https://portfolio-smail-xgle.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/smail-chemlali" target="_blank">
