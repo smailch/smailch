@@ -182,21 +182,36 @@
 
 ---
 
+<!-- ============ GITHUB ACTIVITY ============ -->
+<h1 align="center">GitHub Activity 📊</h1>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smailch/smailch/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smailch/smailch/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/smailch/smailch/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smailch&theme=tokyonight" alt="Profile details" />
+</p>
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smailch&theme=tokyonight" alt="Top languages by repository" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smailch&theme=tokyonight" alt="Top languages by commit" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smailch&theme=tokyonight&utcOffset=1" alt="Productive time" />
+</p>
+
 <!--
-============ OPTIONAL: GITHUB METRICS (uncomment after the workflows have run once) ============
-
-<h1 align="center">GitHub Metrics 📊</h1>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics: commit calendar and languages" width="100%" />
-</p>
+OPTIONAL: GitHub Metrics card (lowlighter/metrics).
+Uncomment after adding the METRICS_TOKEN secret and running the "GitHub Metrics" workflow once.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smailch/smailch/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub metrics: commit calendar, languages and achievements" width="100%" />
 </p>
+-->
 
 ---
--->
 
 <!-- ============ CONTACT ============ -->
 <h1 align="center">How to get in touch?</h1>
