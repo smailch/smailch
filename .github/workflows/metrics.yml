@@ -1,0 +1,38 @@
+# Requires a repository secret named METRICS_TOKEN (a GitHub personal access token).
+# Without it, this workflow skips itself and does not fail.
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      HAS_TOKEN: ${{ secrets.METRICS_TOKEN != '' }}
+    steps:
+      - name: Skip when the token is missing
+        if: env.HAS_TOKEN != 'true'
+        run: echo "METRICS_TOKEN secret is not set; skipping."
+
+      - uses: lowlighter/metrics@latest
+        if: env.HAS_TOKEN == 'true'
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: smailch
+          template: classic
+          filename: github-metrics.svg
+          base: header, repositories
+          config_timezone: Africa/Tunis
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
